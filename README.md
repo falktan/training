@@ -2,7 +2,7 @@
 
 Der Kurs führt in die Grundkonzepte von DataScience und Machine Learning ein.
 
-Voraussetzungen: Es werden keine Kenntnisse in Python oder Machine Learning vorausgesetzt. Grundkentnisse im programmieren sind aber hilfreich.
+Voraussetzungen: Grundkenntnisse in Python sind hilfreich. Kenntnisse in Machine Learning werden nicht vorausgesetzt.
 
 Stichwörter: Python, Machine Learning, Data Science, Overfitting, Logistic Regression
 
