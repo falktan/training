@@ -7,3 +7,5 @@ Voraussetzungen: Grundkenntnisse in Python sind hilfreich. Kenntnisse in Machine
 Stichwörter: Python, Machine Learning, Data Science, Overfitting, Logistic Regression
 
 Das Material ist im Ordner [python_ml](python_ml)
+
+Der Kurs steht als Video zur Verfügung: https://youtu.be/P-xAW3PdFvc
